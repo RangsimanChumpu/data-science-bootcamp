@@ -1,4 +1,4 @@
-# Data Science Bootcamp Batch 9
+# Data Science Bootcamp 
 
 - Google Sheets
 - SQL Database
